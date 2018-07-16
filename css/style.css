@@ -1,0 +1,195 @@
+ body{
+
+}
+font-family: 'Roboto', sans-serif;
+/* header scetoin stars*/
+header {
+    background: #EDEFF1;
+    height: 100px;
+}
+
+.container h6{
+    color: red;
+}
+.container p{
+    margin-top: 40px;
+}
+.content nav{
+    margin-top: 40px;
+}
+.content ul li {
+    list-style: none;
+    display: inline;
+    margin-left: 15px;
+}
+.content ul li:hover{
+	cursor: pointer;
+	background: red;
+	border-radius: 5px;
+	font-size:18px;
+	padding: 15px 20px;
+	color:#fff; 
+}
+ /*header scetoin end*/
+/* home scetoin stars*/
+.baneer{
+	background-image: url(../images/banner1.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.Home {
+    text-align: center;
+    color: #fff;
+    margin-top: 480px;
+}
+.Home h1{
+    text-align: center;
+    color: #fff;
+    font-size: 65px;
+}
+.Home h5{
+   text-align: center;
+   color: #fff;
+}
+.logo{
+    text-align: center;
+    margin-top: 181px;
+}
+.logo h1{
+    color: #fff;
+    text-align: center;
+}
+.logo p{
+     color: #fff;
+    text-align: center;
+}
+.btn{
+    color: #612316;
+    background: #fff;
+    display: block;
+    margin: 0px auto;
+    margin-top: 60px;
+    border-radius: 25px;
+    padding: 10px 36px;
+    margin-bottom: 60px;
+}
+.btn:hover{
+    color: #fff;
+    background: #DD4B2B;
+}
+/* home scetoin end*/
+
+/*our scetoin stars*/
+.our{
+    background: #EDEFF1;
+}
+.ne{
+    text-align: center;
+    margin-top: 50px;
+}
+.ne h2{
+    font-size: 40px;
+    margin-top: auto;
+}
+.new{
+    text-align: center;
+}
+.new h4{
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.new p {
+    line-height: 25px;
+}
+/*our scetoin end*/
+
+/*news sectoin stars*/
+.news{
+ background-image: url(../images/mominur.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.latter {
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.latter h1{
+    font-size: 45px;
+}
+.latter p{
+    font-size: 25px;
+}
+.more{
+    text-align: center;
+}
+.navbar{
+
+}
+.form{
+    
+}
+
+/*news sectoin end*/
+/*<!-- dolor scetoin stars -->*/
+.dolor{
+    background: #FFFFFF;
+}
+.mod{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.mod h2{
+    font-size: 35px;
+}
+.mod p {
+    font-size: 15px;
+}
+
+
+.btom{
+    color: #fff;
+    background: #4B4E73;
+    padding: 10px 35px;
+    border: none;
+    border-radius: 20px;
+}
+.btom:hover{
+    background: red;
+}
+
+/*<!-- dolor scetoin end -->*/
+
+/*contact scetoin stars*/
+.contact{
+    background: #D75D0E;
+}
+.conant {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 25px;
+    color: #fff;
+}
+.conant ul li{
+    list-style: none;
+
+}
+/*contact scetoin end*/
+
+/*footer scetoin stars*/
+.footer{
+ background-image: url(../images/mominur.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.foot {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: 160px;
+}
+
+/*footer scetoin end*/
